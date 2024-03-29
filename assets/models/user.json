@@ -1,0 +1,96 @@
+{
+  "gender": {
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "prefer not to say": "Prefer not to say"
+  },
+  "uid": "",
+  "userName": "",
+  "userPhone": "",
+  "userEmail": "",
+  "userImage": "",
+  "userAddress": "",
+  "userCity": "",
+  "userState": "",
+  "userCountry": "",
+  "createdAt": "",
+  "updatedAt": "",
+  "deletedAt": "",
+  "amount": "",
+  "userCart": "",
+  "userStatus": {
+    "online": "Online",
+    "offline": "Offline",
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "suspended": "Suspended",
+    "deleted": "Deleted"
+  },
+  "userType": {
+    "admin": "Admin",
+    "user": "User",
+    "guest": "Guest",
+    "seller": "Seller",
+    "buyer": "Buyer",
+    "vendor": "Vendor",
+    "customer": "Customer",
+    "staff": "Staff"
+  },
+  "location": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "postcode": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    },
+    "timezone": {
+      "offset": "",
+      "description": ""
+    }
+  },
+  "login": {
+    "uid": "",
+    "userName": "",
+    "password": "",
+    "sha256": ""
+  },
+  "name": {
+    "title": "",
+    "first": "",
+    "last": ""
+  },
+  "dob": {
+    "date": "",
+    "age": null
+  },
+  "registered": {
+    "date": "",
+    "age": null
+  },
+  "id": {
+    "name": "",
+    "value": ""
+  },
+  "picture": {
+    "large": "",
+    "medium": "",
+    "thumbnail": ""
+  },
+  "title": {
+    "Mr": "Mr",
+    "Mrs": "Mrs",
+    "Ms": "Ms",
+    "Miss": "Miss",
+    "Dr": "Dr",
+    "Prof": "Prof",
+    "Sir": "Sir",
+    "Lady": "Lady",
+    "Lord": "Lord",
+    "Boss": "Boss"
+  }
+}
