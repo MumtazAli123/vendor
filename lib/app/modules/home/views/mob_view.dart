@@ -19,7 +19,9 @@ class _MobViewState extends State<MobView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('MobView'),
+        title:  Text(
+          controller.cityName.value,
+        ),
       ),
       body: Center(
         child: Column(
