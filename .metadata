@@ -4,7 +4,7 @@
 # This file should be version controlled and should not be manually edited.
 
 version:
-  revision: "887bdcfb6bf95174fe7703933df880f36b109fc2"
+  revision: "ff284c51bdd4144fd31a3d4318a9a24aa7cbd581"
   channel: "master"
 
 project_type: app
@@ -13,26 +13,26 @@ project_type: app
 migration:
   platforms:
     - platform: root
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: android
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: ios
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: linux
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: macos
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: web
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
     - platform: windows
-      create_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
-      base_revision: 887bdcfb6bf95174fe7703933df880f36b109fc2
+      create_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
+      base_revision: ff284c51bdd4144fd31a3d4318a9a24aa7cbd581
 
   # User provided section
 

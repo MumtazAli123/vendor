@@ -7,27 +7,21 @@ environment:
 
 dependencies: 
   cupertino_icons: ^1.0.6
-  get: 4.6.6
-  firebase_core: 2.27.2
-#  firebase_auth: 4.18.0
-#  google_maps_flutter: ^2.6.0
+  get: any
   geocoding: ^3.0.0
-  geolocator: any
-
-
+  location: 6.0.0
 
 
   flutter: 
     sdk: flutter
-
 
 dev_dependencies: 
   flutter_lints: ^3.0.0
   flutter_test: 
     sdk: flutter
 
-flutter:
-  assets:
+flutter: 
+  assets: 
     - assets/
     - assets/images/
   uses-material-design: true
