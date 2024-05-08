@@ -9,7 +9,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: any
   geocoding: ^3.0.0
-  location: 6.0.0
+  location: ^6.0.2
 
 
   flutter: 
