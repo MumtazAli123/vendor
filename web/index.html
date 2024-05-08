@@ -37,6 +37,19 @@
     const serviceWorkerVersion = null;
   </script>
   <!-- This script adds the flutter initialization JS code -->
+  <script>
+    FlutterLoader.load({
+      'initialRoute': '/',
+      'dartEntrypoint': 'main.dart',
+    });
+
+  </script>
+
+  <script>
+    var serviceWorkerVersion = '1.2.3';
+  </script>
+    <script src="flutter_service_worker.js" defer></script>
+
   <script src="flutter.js" defer></script>
 </head>
 <body>
